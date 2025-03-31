@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I'm a second-year Software Engineering student  
-🌱 Currently learning **Java, MySQL, JUnit**  
+🎓 I'm a second-year Software Engineering student  
+🚀 Currently learning **Java, MySQL, JUnit**  
 💻 Interested in **web applications and APIs**  
 📚 Gaining experience through university and personal projects  
 
