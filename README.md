@@ -3,9 +3,16 @@
 I am a second-year Software Engineering student. I learn Java and work with relational databases (like MySQL). I also practice writing unit tests (JUnit). I like building web applications and APIs. I have experience from university projects and my own small coding projects. I want to improve my skills in programming and software development.
 
 🌐 Socials:
-a { margin-right: -4px; }
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://t.me/nonameqwer1" target="_blank">
+<head>
+  <style>
+    .social-icons a {
+      margin-right: -4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="social-icons" style="display: flex; gap: 8px;">
+    <a href="https://t.me/nonameqwer1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
@@ -16,6 +23,10 @@ a { margin-right: -4px; }
   <a href="mailto:vadimstrapko@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  </div>
+</body>
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  
 </div>
 
 💻 Tech Stack:
