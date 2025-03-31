@@ -3,6 +3,7 @@
 I am a second-year Software Engineering student. I learn Java and work with relational databases (like MySQL). I also practice writing unit tests (JUnit). I like building web applications and APIs. I have experience from university projects and my own small coding projects. I want to improve my skills in programming and software development.
 
 🌐 Socials:
+a { margin-right: -4px; }
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
   <a href="https://t.me/nonameqwer1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
