@@ -18,4 +18,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimStrapko&layout=compact&theme=radical&title_color=58A6FF&hide_border=true)](https://github.com/VadimStrapko)
+<div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start; width: fit-content; background-color: #0A0A0A; padding: 15px; border-radius: 8px;">
+
+<!-- Языки -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimStrapko&layout=compact&title_color=58A6FF&text_color=FFFFFF&bg_color=0A0A0A&hide_border=true&card_width=495)](https://github.com/VadimStrapko)
+
+<!-- Статистика -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VadimStrapko&show_icons=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&bg_color=0A0A0A&hide_border=true&card_width=495&hide=contribs)](https://github.com/VadimStrapko)
+
+</div>
