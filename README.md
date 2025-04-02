@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start; width: fit-content; background-color: #0A0A0A; padding: 15px; border-radius: 8px;">
-
+## 📊 GitHub Statistics:
 <!-- Языки -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimStrapko&layout=compact&title_color=58A6FF&text_color=FFFFFF&bg_color=0A0A0A&hide_border=true&card_width=495)](https://github.com/VadimStrapko)
 
